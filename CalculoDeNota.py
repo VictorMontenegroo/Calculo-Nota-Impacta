@@ -18,6 +18,6 @@ MediasProvisorias = float(Media_ACs) + float(Media_PAI_formatada)
 if MediasProvisorias >= 6:
     print("Aprovado")
 
-#print(Media_ACs)
-#print( Media_PAI_formatada)
+print(Media_ACs)
+print( Media_PAI_formatada)
 print(MediasProvisorias)
